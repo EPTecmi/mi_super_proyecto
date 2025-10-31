@@ -1,0 +1,1 @@
+name = input("Dame tu nombre")
